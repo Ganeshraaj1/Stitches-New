@@ -61,7 +61,7 @@ class CartScreen extends StatelessWidget {
                 Padding(
                   padding: const EdgeInsets.fromLTRB(0, 60, 30, 0),
                   child: Text(
-                    '\u20b9 109.00',
+                    '\u20b9 100.00',
                     style:
                         TextStyle(fontWeight: FontWeight.bold, fontSize: 14.0),
                   ),
